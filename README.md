@@ -66,11 +66,8 @@ The backend is built with **Node.js**, **Express**, and **Socket.IO** to support
 - **Enhanced Video/Audio Integration:** Add fully integrated real-time video and audio streaming within the app using WebRTC for a complete conferencing experience.
 - **More Whiteboard Tools:** Introduce additional drawing tools such as eraser, shapes, text input, color picker, and multi-layer support for advanced collaboration.
 - **Undo/Redo Functionality:** Enable users to undo and redo their drawing actions for better usability.
-- **Improved UI/UX:** Make the interface more user-friendly and responsive, including mobile support and accessibility enhancements.
 - **Room Management Features:** Allow hosts to manage participants, mute users, assign presenter roles, or lock rooms for private sessions.
-- **Performance Optimization:** Optimize canvas rendering and socket event handling for smoother experience during high traffic or with many users.
 - **Scalability & Load Balancing:** Prepare the backend to support multiple servers and scale horizontally to handle many concurrent rooms and users.
 - **Recording and Playback:** Allow users to record sessions and play them back later for review or offline access.
-- **Error Handling and Notifications:** Improve error handling on both client and server, including user notifications for connection issues or room errors.
 
 
